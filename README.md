@@ -3,6 +3,9 @@ A walkthrough for setting up a basic reinforcement learning algorithm using Q-Le
 
 ## Examples
 
-1. Frozen Lake
+1. Q-Learning: Frozen Lake
+2. Deep Q Networks: Cart-Pole
 
-### Frozen Lake
+### Q-Learning
+
+### Deep Q Networks
